@@ -17,7 +17,7 @@ I'm a **Mathematical Engineering graduate** from KU Leuven with a passion for so
 
 ### [Diffusion Model for Mass Spectrometry Imaging](https://github.com/kareltuyaerts/diffusion-msi-thesis)
 *Master's Thesis Project*
-- Developed generative AI model for biomedial data (synthetic MSI data) to improve classification in low-data scenarios
+- Developed generative AI model for biomedical data (synthetic MSI data) to improve classification in low-data scenarios
 - [Link to full thesis text](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=alma9995772021601488&context=L&vid=32KUL_KUL:KULeuven&lang=en&search_scope=All_Content&adaptor=Local%20Search%20Engine&tab=all_content_tab&query=any,contains,Karel%20Tuyaerts&offset=0)
 - **Tech**: Python, PyTorch, Deep Learning, Scientific Data Analysis, HPC
 
