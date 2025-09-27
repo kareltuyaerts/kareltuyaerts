@@ -13,24 +13,25 @@ I'm a **Mathematical Engineering graduate** from KU Leuven with a passion for so
 - **Scientific Computing**: Numerical PDE solvers, Optimization, High-Performance Computing
 - **Tools**: Git, Linux, OpenMP, MPI
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧬 [Diffusion Model for Mass Spectrometry Imaging](https://github.com/karel-tuyaerts/diffusion-msi-thesis)
+### [Diffusion Model for Mass Spectrometry Imaging](https://github.com/karel-tuyaerts/diffusion-msi-thesis)
 *Master's Thesis Project*
-- Developed generative AI model for synthetic MSI data to improve classification in low-data scenarios
+- Developed generative AI model for biomedial data (synthetic MSI data) to improve classification in low-data scenarios
+- [Link to full thesis text](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=alma9995772021601488&context=L&vid=32KUL_KUL:KULeuven&lang=en&search_scope=All_Content&adaptor=Local%20Search%20Engine&tab=all_content_tab&query=any,contains,Karel%20Tuyaerts&offset=0)
 - **Tech**: Python, PyTorch, Deep Learning, Scientific Data Analysis
 
-### 🔥 [Heat Topology Optimization](https://github.com/karel-tuyaerts/heat-topology-optimization)
+### [Heat Topology Optimization](https://github.com/karel-tuyaerts/heat-topology-optimization)
 *Engineering Optimization Project*
 - Simulated and optimized CPU heat sink layouts using numerical PDE solvers
 - **Tech**: C++, Numerical Methods, Optimization Algorithms
 
-### 🌊 [Wave Equation Solver](https://github.com/karel-tuyaerts/wave-equation-solver)
+### [Wave Equation Solver](https://github.com/karel-tuyaerts/wave-equation-solver)
 *Scientific Software Project*
 - Implemented multiple finite difference methods for time-domain PDE solving
 - **Tech**: C++, Numerical Analysis, Parallel Computing (OpenMP, MPI)
 
-### 🎯 [Interactive Card Game Robot](https://github.com/karel-tuyaerts/card-game-robot)
+### [Interactive Card Game Robot](https://github.com/karel-tuyaerts/card-game-robot)
 *Computer Vision Project*
 - Fully functional camera setup with card, face, and gesture recognition
 - **Tech**: Python, OpenCV, Computer Vision, Hardware Integration
