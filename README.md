@@ -13,7 +13,7 @@ I'm a **Mathematical Engineering graduate** from KU Leuven with a passion for so
 - **Scientific Computing**: Numerical PDE solvers, Optimization, High-Performance Computing
 - **Tools**: Git, Linux, OpenMP, MPI
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [Diffusion Model for Mass Spectrometry Imaging](https://github.com/karel-tuyaerts/diffusion-msi-thesis)
 *Master's Thesis Project*
