@@ -1,14 +1,14 @@
 # Hi, I'm Karel
 
-I'm a Software Engineer with a background in Mathematical Engineering from KU Leuven. I am currently working as an Engineering Consultant at RP One, doing a 2 year project at Bank van Breda in Antwerp. My day-to-day work consists mostly of .NET development, mainly building and maintaining applications with Blazor, ASP.NET and C#. This way, I am strengthening my general software engineering skills in both front-end and back-end.
+I'm a Software Engineer with a background in Mathematical Engineering from KU Leuven. I am currently working as an Engineering Consultant at RP One, doing a 2 year project at Bank van Breda in Antwerp. My day-to-day work consists mostly of .NET development, mainly building and maintaining applications with Blazor, ASP.NET and C#. This has given me experience in both front-end and back-end development and helped me build a solid foundation in software engineering.
 
-Before that, I spent a lot of time on machine learning, scientific computing and numerical methods. My master's thesis focused on diffusion models for mass spectrometry imaging, and I still enjoy keeping up with developments in AI. 
+Alongside software engineering and before my professional carreer, I developed a very strong interest in machine learning, scientific computing and numerical methods during my studies. My master's thesis focused on diffusion models for mass spectrometry imaging, and I still enjoy keeping up with developments in AI. I enjoy understanding how things work under the hood, whether that's a numerical solver, a machine learning model, or a business application used in production. I like combining all of this to build software that solves real world problems.
 
-I keep developing my skills in different areas through courses such as .NET software engineering (see Professional) as well as AI and machine learning and other interests (see Background & interests).
+I continue developing my skills through courses and projects such as .NET software engineering (see Professional experience) as well as AI and machine learning and other interests (see Academic background & interests).
 
 ## What I work with
 
-### Professional
+### Professional experience
 - C#
 - ASP.NET Core
 - Blazor
@@ -17,7 +17,7 @@ I keep developing my skills in different areas through courses such as .NET soft
 - REST APIs
 - Git
 
-### Background & interests
+### Academic background & interests
 - Python
 - Machine Learning
 - Deep Learning
