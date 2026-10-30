@@ -1,19 +1,33 @@
-# Hi there, I'm Karel Tuyaerts 👋
+# Hi, I'm Karel
 
-## About Me
-I'm a **Mathematical Engineering graduate** from KU Leuven with a passion for solving complex problems through computational methods and AI. My expertise spans scientific computing, machine learning, numerical analysis and computer vision, with hands-on experience in developing solutions for real-world engineering challenges.
+I'm a Software Engineer with a background in Mathematical Engineering from KU Leuven. I am currently working as an Engineering Consultant at RP One, doing a 2 year project at Bank van Breda in Antwerp. My day-to-day work consists mostly of .NET development, mainly building and maintaining applications with Blazor, ASP.NET and C#. This way, I am strengthening my general software engineering skills in both front-end and back-end.
 
-🔬 **Currently**: Seeking opportunities in AI/ML, scientific computing, or data science  
-🎓 **Education**: MSc Mathematical Engineering (AI specialization)  
-🌍 **Location**: Leuven, Belgium  
+Before that, I spent a lot of time on machine learning, scientific computing and numerical methods. My master's thesis focused on diffusion models for mass spectrometry imaging, and I still enjoy keeping up with developments in AI. 
 
-## 🛠️ Technical Skills
-- **Programming**: Python (SciPy stack), C++, MATLAB, Java,
-- **AI/ML**: Neural Networks, Computer Vision, Generative Models (Diffusion Models)
-- **Scientific Computing**: Numerical PDE solvers, Optimization, High-Performance Computing
-- **Tools**: Git, Linux, OpenMP, MPI
+I keep developing my skills in different areas through courses such as .NET software engineering (see Professional) as well as AI and machine learning and other interests (see Background & interests).
 
-## 🚀 Featured Projects
+## What I work with
+
+### Professional
+- C#
+- ASP.NET Core
+- Blazor
+- Entity Framework
+- SQL
+- REST APIs
+- Git
+
+### Background & interests
+- Python
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Scientific Computing
+- Numerical Methods
+- C++
+- Linux
+
+## Projects
 
 ### [Diffusion Model for Mass Spectrometry Imaging](https://github.com/kareltuyaerts/diffusion-msi-thesis)
 *Master's Thesis Project*
@@ -37,9 +51,8 @@ I'm a **Mathematical Engineering graduate** from KU Leuven with a passion for so
 - **Tech**: Python, OpenCV, Computer Vision, Hardware Integration
 
 
-## 📫 Let's Connect
-- 📧 Email: kareltuyaerts@gmail.com
-- 📍 Location: Leuven, Belgium
-- 💼 LinkedIn: www.linkedin.com/in/karel-tuyaerts-5b2a312ba
+## Get in touch
+- Email: kareltuyaerts@gmail.com
+- LinkedIn: www.linkedin.com/in/karel-tuyaerts-5b2a312ba
 
 ---
